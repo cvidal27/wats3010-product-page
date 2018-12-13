@@ -1,6 +1,8 @@
 /* Styles for Product Page Customization */
 /* NOTE: Do not edit the Bootstrap CSS files. */
 
+body {background-color: #F0F8FF;}
+
 .how-section1{
     margin-top:-15%;
     padding: 10%;
